@@ -1,4 +1,4 @@
-# emojit
+# emojit (work in progress!!!)
 
 emojit is a conceptual app that tracks your emotional, mental, and physical state
 utilizing the expression of emoji surveying over a period of time.
